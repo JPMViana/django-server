@@ -9,3 +9,6 @@ venv/
 *.log
 *.pot
 *.sqlite3
+
+# Resume file
+resume.txt
